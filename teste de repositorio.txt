@@ -1,3 +1,3 @@
 Começaremos a 
 testar nosso primeiro repositorio
-no github
+no github. Vamos em frente, agora vamos testar as versões e suas diferenças.
